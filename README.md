@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/06680c34-fa4b-40e4-b9da-a7df1dfadef4)
+
 # SpTreeO
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
