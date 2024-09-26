@@ -1,0 +1,16 @@
+
+.mat-mdc-button:not(:disabled) {
+  color: #00dddd;
+}
+
+.myToolbar{
+  width: 100%;
+  background-color: #004f4f;
+  color: #00dddd;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+
